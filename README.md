@@ -1,1 +1,1 @@
-# Quote-App-Project-in-AngularJS-
+Powered by ganesh kavhar
