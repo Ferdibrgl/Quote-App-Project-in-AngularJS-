@@ -1,1 +1,1 @@
-Powered by ganesh kavhar
+Ferdi tarafından desteklenmektedir
